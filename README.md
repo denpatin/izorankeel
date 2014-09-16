@@ -1,4 +1,8 @@
-izorankeel
-==========
+Ingrian language manual (in Russian)
+==============================
 
-Website about Ingrian language (on basis of "Ižoran keel (Ittseopastaja)" PDF by V. Chernyavski)
+
+Contents:
+-----------
+
+ 1. [Sihat *(en: cases, ru: падежи)*](https://rawgit.com/denpatin/izorankeel/master/sihat.html)
